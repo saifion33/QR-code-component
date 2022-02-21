@@ -34,7 +34,7 @@ p{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: var(--Grayish-blue);
+    background: var(--Light-gray);
 }
 .card{
     width: 300px;
@@ -60,7 +60,6 @@ p{
     font-size: 18px;
     text-align: center;
     margin-top: auto;
-    color: var(--eth-font-color);
 }
 
 .attribution a {
