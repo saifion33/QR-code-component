@@ -3,7 +3,6 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
-
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -15,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Qr code](https://github.com/saifion33/QR-code-component/blob/main/images/Screenshot%20QR%20code.png)
 
 
 
@@ -33,6 +32,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 
 ## Author
-
+- Github [@saifion33](https://github.com/saifion33)
+ 🛠 Skills
+  Javascript, HTML, CSS, tailwind css
 - Frontend Mentor [@saifion33](https://www.frontendmentor.io/profile/mxplayerofficial)
 - Instagram [@frontendium](https://instagram.com/frontendium/)
