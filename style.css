@@ -19,13 +19,15 @@ html {
 
 h1{
     font-weight: 700;
-    font-size: 18px;
+    font-size: 20px;
     color: var(--Dark-blue);
+    margin: 0.8em 0;
 }
 p{
     font-weight: 400;
     font-size: 15px;
     color: var(--Grayish-blue);
+    margin: 0.5em 0;
 }
 main{
     width: 100%;
@@ -50,16 +52,14 @@ main{
     max-width: 100%;
     border-radius: inherit;
 }
-.qr-title{
-    margin:1em 0.7em;
-}
-.description{
-    margin:0.5em 0.3em;
+.text-container{
+  padding: 0.5em;
 }
 .attribution {
     font-size: 18px;
     text-align: center;
     margin-top: auto;
+    color: var(--eth-font-color);
 }
 
 .attribution a {
